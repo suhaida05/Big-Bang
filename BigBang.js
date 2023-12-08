@@ -14,7 +14,7 @@ for (let i = 1; i <= array.length; i++)
         }
         else if (i%5 === 0)
             {
-                array[i-1] = "BANG";
+                array[i-1] = 'BANG';
             }
             else 
             array[i-1] = i.toString();
