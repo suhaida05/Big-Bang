@@ -5,7 +5,7 @@ This script generates an array from 1 to 100 and replaces numbers based on the f
 - If the number is divisible by 5, it is replaced with the word 'BANG'.
 - If the number is divisible by both 3 and 5, it is replaced with the phrase 'BIGBANG'.
 
-Step to run the script
+# Step to run the script
 - Install Node.js
   - Download and install it from https://nodejs.org/.
 - Platform to Run the Script
